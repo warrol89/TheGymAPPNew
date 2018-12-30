@@ -1,0 +1,12 @@
+D:\TheGymApp\TheGymApp.Service\bin\Debug\netstandard2.0\TheGymApp.Service.deps.json
+D:\TheGymApp\TheGymApp.Service\bin\Debug\netstandard2.0\TheGymApp.Service.dll
+D:\TheGymApp\TheGymApp.Service\bin\Debug\netstandard2.0\TheGymApp.Service.pdb
+D:\TheGymApp\TheGymApp.Service\obj\Debug\netstandard2.0\TheGymApp.Service.csprojAssemblyReference.cache
+D:\TheGymApp\TheGymApp.Service\obj\Debug\netstandard2.0\TheGymApp.Service.csproj.CoreCompileInputs.cache
+D:\TheGymApp\TheGymApp.Service\obj\Debug\netstandard2.0\TheGymApp.Service.AssemblyInfoInputs.cache
+D:\TheGymApp\TheGymApp.Service\obj\Debug\netstandard2.0\TheGymApp.Service.AssemblyInfo.cs
+D:\TheGymApp\TheGymApp.Service\obj\Debug\netstandard2.0\TheGymApp.Service.dll
+D:\TheGymApp\TheGymApp.Service\obj\Debug\netstandard2.0\TheGymApp.Service.pdb
+D:\TheGymApp\TheGymApp.Service\bin\Debug\netstandard2.0\TheGymApp.Data.dll
+D:\TheGymApp\TheGymApp.Service\bin\Debug\netstandard2.0\TheGymApp.Data.pdb
+D:\TheGymApp\TheGymApp.Service\obj\Debug\netstandard2.0\TheGymApp.Service.csproj.CopyComplete
